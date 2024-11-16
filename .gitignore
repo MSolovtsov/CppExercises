@@ -1,0 +1,24 @@
+# Other dir & files
+Add/
+Clion-crack/
+TheFinalProject/
+*.png
+
+# CMake assembly dir
+*/.idea/
+*/cmake-build-debug/
+*/*/.idea/
+*/*/cmake-build-debug/
+*/*/*/.idea/
+*/*/*/cmake-build-debug/
+
+# QT Creator assembly dir
+Practice_37/37_2/build-37_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+Practice_38/38_1/build-38_1-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+Practice_38/38_1/build-38_1-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+Practice_38/38_2/build-38_2-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+Practice_38/38_3/build-38_3-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+Practice_38/Media/build-Media-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+Practice_38/QObjects/build-QObj-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/
+Practice_38/WebView/build-WebView-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/
+Practice_39/39_2/build-39_2-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/

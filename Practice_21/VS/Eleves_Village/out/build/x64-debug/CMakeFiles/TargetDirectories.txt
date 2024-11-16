@@ -1,0 +1,5 @@
+C:/Users/mikha/Desktop/SkillBox/Practice 21/VS/Eleves_Village/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikha/Desktop/SkillBox/Practice 21/VS/Eleves_Village/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/mikha/Desktop/SkillBox/Practice 21/VS/Eleves_Village/out/build/x64-debug/Eleves_Village/CMakeFiles/Eleves_Village.dir
+C:/Users/mikha/Desktop/SkillBox/Practice 21/VS/Eleves_Village/out/build/x64-debug/Eleves_Village/CMakeFiles/edit_cache.dir
+C:/Users/mikha/Desktop/SkillBox/Practice 21/VS/Eleves_Village/out/build/x64-debug/Eleves_Village/CMakeFiles/rebuild_cache.dir

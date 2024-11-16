@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/sound">
+        <file>metallicheskiy-schelchok4.mp3</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>ButtonDown.jpg</file>
+        <file>ButtonUp.jpg</file>
+    </qresource>
+</RCC>

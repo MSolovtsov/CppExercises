@@ -1,0 +1,7 @@
+﻿  mini game.cpp
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\mini game\mini game.cpp(410,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\mini game\mini game.cpp(534,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\mini game\mini game.cpp(139): warning C4715: definition_of_bad: значение возвращается не при всех путях выполнения
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\mini game\mini game.cpp(223): warning C4715: keyboard_to_action_converter: значение возвращается не при всех путях выполнения
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\mini game\mini game.cpp(238): warning C4715: definition_of_distance: значение возвращается не при всех путях выполнения
+  mini game.vcxproj -> C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\mini game\x64\Debug\mini game.exe

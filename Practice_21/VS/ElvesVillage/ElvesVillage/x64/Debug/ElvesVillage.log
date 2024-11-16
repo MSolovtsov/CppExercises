@@ -1,0 +1,8 @@
+﻿  Branch.cpp
+  ElvesNames.cpp
+  ElvesVillage.cpp
+C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\ElvesVillage\ElvesVillage\ElvesVillage.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LargeBranch.cpp
+  Tree.cpp
+  Создание кода...
+  ElvesVillage.vcxproj -> C:\Users\mikha\Desktop\SkillBox\Practice 21\VS\ElvesVillage\x64\Debug\ElvesVillage.exe
